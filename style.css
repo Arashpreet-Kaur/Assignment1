@@ -1,0 +1,16 @@
+h1{
+    color: chocolate;
+    text-align: center;
+}
+body{
+    background-color: rgb(215, 244, 250);
+    color: brown;
+}
+img{
+    display: block;
+    margin: auto;
+    width: 400px;
+    height: 400px;
+    background-color: dodgerblue;
+}
+
